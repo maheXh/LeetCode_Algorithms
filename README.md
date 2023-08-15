@@ -24,7 +24,7 @@ Here's a list of LeetCode challenges included in this repository:
 
 | # | Title | Difficulty | Topics | Solutions |
 |---|-------|------------|--------|-----------|
-| 1 | [Roman to Integer](./array-and-strings/roman-to-integer) | Easy | String, Math | C++|
+| 1 | [Roman to Integer](./array-and-strings/roman-to-integer) | Easy | String, Math | [C++](https://github.com/maheXh/LeetCode_Algorithms/blob/main/romanToInt.cpp)|
 
 
 
