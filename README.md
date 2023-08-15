@@ -17,3 +17,14 @@ You can clone this repository to your local machine using the following command:
 ```bash
 git clone https://github.com/your-username/leetcode-practice.git
 ```
+
+## Challenges
+
+Here's a list of LeetCode challenges included in this repository:
+
+| # | Title | Difficulty | Topics | Solutions |
+|---|-------|------------|--------|-----------|
+| 1 | [Roman to Integer](./array-and-strings/roman-to-integer) | Easy | String, Math | C++|
+
+
+
