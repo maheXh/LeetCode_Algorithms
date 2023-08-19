@@ -25,6 +25,7 @@ Here's a list of LeetCode challenges included in this repository:
 | # | Title | Difficulty | Topics | Solutions |
 |---|-------|------------|--------|-----------|
 | 13. | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | String, Math | [C++](https://github.com/maheXh/LeetCode_Algorithms/blob/main/romanToInt.cpp)|
+| 48. | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | Array | [C++](link_to_solution)|
 
 
 
