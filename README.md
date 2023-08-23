@@ -18,6 +18,6 @@ Here's a list of LeetCode challenges included in this repository:
 |---|-------|------------|--------|-----------|
 | 13. | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | String, Math | [C++](https://github.com/maheXh/LeetCode_Algorithms/blob/main/romanToInt.cpp)|
 | 48. | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | Array | [C++](https://github.com/maheXh/LeetCode_Algorithms/blob/main/RotateMatrix.cpp)|
-
+| 6. | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | String | [C++](https://github.com/maheXh/LeetCode_Algorithms/blob/main/ZigZagConversion.cpp) |
 
 
